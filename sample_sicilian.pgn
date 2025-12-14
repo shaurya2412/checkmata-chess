@@ -1,0 +1,99 @@
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.01"]
+[Round "1"]
+[White "White1"]
+[Black "Black1"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 1-0
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.02"]
+[Round "2"]
+[White "White2"]
+[Black "Black2"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O O-O 9. f4 exf4 10. Bxf4 Be6 0-1
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.03"]
+[Round "3"]
+[White "White3"]
+[Black "Black3"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 1-0
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.04"]
+[Round "4"]
+[White "White4"]
+[Black "Black4"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 1/2-1/2
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.05"]
+[Round "5"]
+[White "White5"]
+[Black "Black5"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3 O-O 9. Be3 Nc6 10. f4 Qc7 1-0
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.06"]
+[Round "6"]
+[White "White6"]
+[Black "Black6"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 0-1
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.07"]
+[Round "7"]
+[White "White7"]
+[Black "Black7"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 1-0
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.08"]
+[Round "8"]
+[White "White8"]
+[Black "Black8"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O O-O 9. Kh1 Be6 10. f4 exf4 1/2-1/2
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.09"]
+[Round "9"]
+[White "White9"]
+[Black "Black9"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 0-1
+
+[Event "Sicilian Defense Games"]
+[Site "Chess Platform"]
+[Date "2024.01.10"]
+[Round "10"]
+[White "White10"]
+[Black "Black10"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. O-O Bb4 8. Qd3 Nc6 9. Nxc6 bxc6 10. e5 Nd5 1-0

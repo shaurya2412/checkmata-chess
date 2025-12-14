@@ -1,0 +1,99 @@
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.01"]
+[Round "1"]
+[White "White1"]
+[Black "Black1"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 1-0
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.02"]
+[Round "2"]
+[White "White2"]
+[Black "Black2"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 0-1
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.03"]
+[Round "3"]
+[White "White3"]
+[Black "Black3"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 1/2-1/2
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.04"]
+[Round "4"]
+[White "White4"]
+[Black "Black4"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 1-0
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.05"]
+[Round "5"]
+[White "White5"]
+[Black "Black5"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. Nbd2 Re8 0-1
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.06"]
+[Round "6"]
+[White "White6"]
+[Black "Black6"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 h6 10. d4 Re8 1-0
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.07"]
+[Round "7"]
+[White "White7"]
+[Black "Black7"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Be3 exd4 1/2-1/2
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.08"]
+[Round "8"]
+[White "White8"]
+[Black "Black8"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 e4 10. dxc6 exf3 1-0
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.09"]
+[Round "9"]
+[White "White9"]
+[Black "Black9"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d3 Nbd7 0-1
+
+[Event "Ruy Lopez Games"]
+[Site "Chess Platform"]
+[Date "2024.01.10"]
+[Round "10"]
+[White "White10"]
+[Black "Black10"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 1-0

@@ -1,0 +1,28 @@
+:root {
+  /* Premium Dark Mode Color Palette */
+  --bg-color-main: #302E2B; /* Deep Dark Gray - Background */
+  --text-color-main: #FFFFFF; /* Crisp white for primary text */
+  --text-color-secondary: #9CA3AF; /* Medium gray for secondary text */
+  --bg-color-auxiliary-1: rgba(0, 0, 0, 0.2);
+  --bg-color-auxiliary-2: rgba(0, 0, 0, 0.6);
+  --bg-color-auxiliary-3: rgba(0, 0, 0, 0.1);
+  --accent-color-hover: #93c054; /* Darker blue for hover states */
+  --border-color: rgba(155, 6, 6, 0.1); /* Subtle borders */
+  
+  /* Chessboard - Muted sophisticated tones */
+  --board-light: #EBECD0; /* Pale cream */
+  --board-dark: #739552; /* Olive green */
+  
+  /* Border radius for consistency */
+  --border-radius: 6px; /* 4-8px range, using 6px */
+}
+
+[data-theme="bubblegum"]:root {
+  --bg-color-main: #302E2B;
+  --text-color-main: #ffffff;
+  --bg-color-auxiliary-1: rgba(0, 0, 0, 0.2);
+  --bg-color-auxiliary-2: rgba(0, 0, 0, 0.6);
+  --bg-color-auxiliary-3: rgba(0, 0, 0, 0.1);
+  --board-light:#687182;
+  --board-dark: #282F3B;
+}

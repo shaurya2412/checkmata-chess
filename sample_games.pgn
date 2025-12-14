@@ -1,0 +1,99 @@
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.01"]
+[Round "1"]
+[White "Player1"]
+[Black "Player2"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 1-0
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.02"]
+[Round "2"]
+[White "Player3"]
+[Black "Player4"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 0-1
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.03"]
+[Round "3"]
+[White "Player5"]
+[Black "Player6"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 1/2-1/2
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.04"]
+[Round "4"]
+[White "Player7"]
+[Black "Player8"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 1-0
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.05"]
+[Round "5"]
+[White "Player9"]
+[Black "Player10"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 0-1
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.06"]
+[Round "6"]
+[White "Player11"]
+[Black "Player12"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 1-0
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.07"]
+[Round "7"]
+[White "Player13"]
+[Black "Player14"]
+[Result "1/2-1/2"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 1/2-1/2
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.08"]
+[Round "8"]
+[White "Player15"]
+[Black "Player16"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 1-0
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.09"]
+[Round "9"]
+[White "Player17"]
+[Black "Player18"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 0-1
+
+[Event "Sample Games Collection"]
+[Site "Chess Platform"]
+[Date "2024.01.10"]
+[Round "10"]
+[White "Player19"]
+[Black "Player20"]
+[Result "1-0"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 1-0

@@ -1,0 +1,582 @@
+{
+  "e4 c5": {
+    "code": "B20",
+    "name": "Sicilian Defense"
+  },
+  "e4 e5": {
+    "code": "C20",
+    "name": "King's Pawn Game"
+  },
+  "d4 d5": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 nf6": {
+    "code": "E00",
+    "name": "Indian Defense"
+  },
+  "c4 e5": {
+    "code": "A10",
+    "name": "English Opening"
+  },
+  "e4 e6": {
+    "code": "C00",
+    "name": "French Defense"
+  },
+  "e4 c6": {
+    "code": "B10",
+    "name": "Caro-Kann Defense"
+  },
+  "d4 f5": {
+    "code": "A80",
+    "name": "Dutch Defense"
+  },
+  "nf3 d5": {
+    "code": "A40",
+    "name": "Queen's Pawn Opening"
+  },
+  "g3": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  },
+  "b4": {
+    "code": "A00",
+    "name": "Polish Opening"
+  },
+  "c4": {
+    "code": "A10",
+    "name": "English Opening"
+  },
+  "d4": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "e4": {
+    "code": "B00",
+    "name": "King's Pawn Opening"
+  },
+  "nf3": {
+    "code": "A04",
+    "name": "Reti Opening"
+  },
+  "f3": {
+    "code": "A00",
+    "name": "Barnes Opening"
+  },
+  "g4": {
+    "code": "A00",
+    "name": "Grob's Attack"
+  },
+  "h4": {
+    "code": "A00",
+    "name": "Desprez Opening"
+  },
+  "a4": {
+    "code": "A00",
+    "name": "Ware Opening"
+  },
+  "e4 e5 nf3": {
+    "code": "C20",
+    "name": "King's Pawn Game"
+  },
+  "e4 c5 nf3": {
+    "code": "B20",
+    "name": "Sicilian Defense"
+  },
+  "d4 d5 c4": {
+    "code": "D06",
+    "name": "Queen's Gambit"
+  },
+  "d4 nf6 c4": {
+    "code": "E00",
+    "name": "Indian Defense"
+  },
+  "c4 e5": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "e4 e6 d4": {
+    "code": "C00",
+    "name": "French Defense"
+  },
+  "e4 c6 d4": {
+    "code": "B10",
+    "name": "Caro-Kann Defense"
+  },
+  "e4 e5 nf3 nc6": {
+    "code": "C44",
+    "name": "King's Knight Opening"
+  },
+  "e4 e5 nf3 nf6": {
+    "code": "C40",
+    "name": "Petrov Defense"
+  },
+  "e4 c5 nf3 d6": {
+    "code": "B22",
+    "name": "Sicilian Defense"
+  },
+  "e4 c5 nf3 e6": {
+    "code": "B40",
+    "name": "Sicilian Defense"
+  },
+  "e4 c5 nf3 nc6": {
+    "code": "B30",
+    "name": "Sicilian Defense"
+  },
+  "d4 d5 c4 e6": {
+    "code": "D30",
+    "name": "Queen's Gambit Declined"
+  },
+  "d4 d5 c4 c6": {
+    "code": "D10",
+    "name": "Slav Defense"
+  },
+  "d4 nf6 c4 g6": {
+    "code": "E60",
+    "name": "King's Indian Defense"
+  },
+  "d4 nf6 c4 e6": {
+    "code": "E00",
+    "name": "Nimzo-Indian Defense"
+  },
+  "c4 nf6": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "c4 c5": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "e4 e5 nf3 nc6 bc4": {
+    "code": "C50",
+    "name": "Italian Game"
+  },
+  "e4 e5 nf3 nc6 bb5": {
+    "code": "C60",
+    "name": "Ruy Lopez"
+  },
+  "e4 e5 nf3 nc6 d4": {
+    "code": "C44",
+    "name": "Scotch Game"
+  },
+  "e4 e5 nf3 nc6 nc3": {
+    "code": "C46",
+    "name": "Three Knights Game"
+  },
+  "e4 e5 nf3 nf6 nxe5": {
+    "code": "C42",
+    "name": "Petrov Defense"
+  },
+  "e4 c5 nf3 d6 d4": {
+    "code": "B20",
+    "name": "Sicilian Defense"
+  },
+  "e4 c5 nf3 e6 d4": {
+    "code": "B40",
+    "name": "Sicilian Defense"
+  },
+  "e4 c5 nf3 nc6 d4": {
+    "code": "B30",
+    "name": "Sicilian Defense"
+  },
+  "d4 d5 c4 e6 nc3": {
+    "code": "D30",
+    "name": "Queen's Gambit Declined"
+  },
+  "d4 d5 c4 c6 nc3": {
+    "code": "D10",
+    "name": "Slav Defense"
+  },
+  "d4 nf6 c4 g6 nc3": {
+    "code": "E60",
+    "name": "King's Indian Defense"
+  },
+  "d4 nf6 c4 e6 nc3": {
+    "code": "E00",
+    "name": "Nimzo-Indian Defense"
+  },
+  "c4 e5 nc3": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "c4 nf6 nc3": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "nf3 d5 c4": {
+    "code": "A10",
+    "name": "English Opening"
+  },
+  "nf3 nf6 c4": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "g3 d5 bg2": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3 e5 bb2": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4 d5 nf3": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  },
+  "e4 e5 bc4": {
+    "code": "C20",
+    "name": "Bishop's Opening"
+  },
+  "e4 e5 qf3": {
+    "code": "C20",
+    "name": "Danvers Opening"
+  },
+  "e4 e5 qh5": {
+    "code": "C20",
+    "name": "Parham Attack"
+  },
+  "d4 d5 e3": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 nf3": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 c4 dxc4": {
+    "code": "D20",
+    "name": "Queen's Gambit Accepted"
+  },
+  "d4 nf6 c4 c5": {
+    "code": "A50",
+    "name": "Benoni Defense"
+  },
+  "d4 nf6 c4 c5 d5": {
+    "code": "A60",
+    "name": "Benoni Defense"
+  },
+  "e4 e5 f4": {
+    "code": "C30",
+    "name": "King's Gambit"
+  },
+  "e4 e5 f4 exf4": {
+    "code": "C33",
+    "name": "King's Gambit Accepted"
+  },
+  "e4 e5 nf3 f5": {
+    "code": "C40",
+    "name": "Latvian Gambit"
+  },
+  "e4 e5 nf3 f6": {
+    "code": "C40",
+    "name": "Damiano Defense"
+  },
+  "e4 e5 nf3 qf6": {
+    "code": "C40",
+    "name": "Greco Defense"
+  },
+  "e4 c5 b4": {
+    "code": "B20",
+    "name": "Wing Gambit"
+  },
+  "e4 c5 c3": {
+    "code": "B22",
+    "name": "Sicilian Defense: Alapin Variation"
+  },
+  "e4 c5 nc3": {
+    "code": "B20",
+    "name": "Sicilian Defense: Closed"
+  },
+  "d4 d5 e4": {
+    "code": "D00",
+    "name": "Blackmar-Diemer Gambit"
+  },
+  "d4 f5 g4": {
+    "code": "A80",
+    "name": "Dutch Defense: Staunton Gambit"
+  },
+  "c4 e5 g3": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "c4 c5 nf3": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "c4 nf6 nc3 e5": {
+    "code": "A40",
+    "name": "English Opening: Four Knights"
+  },
+  "nf3 d5 d4": {
+    "code": "A40",
+    "name": "Queen's Pawn Opening"
+  },
+  "nf3 nf6 c4": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "g3 e5 bg2": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3 nf6 bb2": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4 d5 nf3 g6": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  },
+  "e4 e5 nc3": {
+    "code": "C20",
+    "name": "Vienna Game"
+  },
+  "e4 e5 nc3 nf6": {
+    "code": "C25",
+    "name": "Vienna Game"
+  },
+  "e4 e5 nc3 nc6": {
+    "code": "C44",
+    "name": "Scotch Four Knights"
+  },
+  "d4 d5 nf3 nf6": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 nf3 e6": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 nf3 c5": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 nf6 nf3": {
+    "code": "E00",
+    "name": "Indian Defense"
+  },
+  "d4 nf6 nf3 g6": {
+    "code": "E60",
+    "name": "King's Indian Defense"
+  },
+  "d4 nf6 nf3 e6": {
+    "code": "E00",
+    "name": "Nimzo-Indian Defense"
+  },
+  "c4 e5 nc3 nf6": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "c4 e5 nc3 nc6": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "c4 nf6 nc3 e5": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "c4 nf6 nc3 c5": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "nf3 d5 c4 c6": {
+    "code": "A10",
+    "name": "English Opening"
+  },
+  "nf3 nf6 c4 c5": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "g3 d5 bg2 nf6": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3 e5 bb2 nc6": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4 d5 nf3 nf6": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  },
+  "e4 e5 bc4 nf6": {
+    "code": "C23",
+    "name": "Bishop's Opening"
+  },
+  "e4 e5 bc4 nc6": {
+    "code": "C23",
+    "name": "Bishop's Opening"
+  },
+  "e4 e5 qf3 nc6": {
+    "code": "C20",
+    "name": "Danvers Opening"
+  },
+  "e4 e5 qh5 nc6": {
+    "code": "C20",
+    "name": "Parham Attack"
+  },
+  "d4 d5 e3 nf6": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 nf3 nf6": {
+    "code": "D00",
+    "name": "Queen's Pawn Game"
+  },
+  "d4 d5 c4 dxc4 e3": {
+    "code": "D20",
+    "name": "Queen's Gambit Accepted"
+  },
+  "d4 nf6 c4 c5 d5 e6": {
+    "code": "A60",
+    "name": "Benoni Defense"
+  },
+  "d4 nf6 c4 c5 d5 b5": {
+    "code": "A60",
+    "name": "Benoni Defense: Blumenfeld Gambit"
+  },
+  "e4 e5 f4 exf4 nf3": {
+    "code": "C33",
+    "name": "King's Gambit Accepted"
+  },
+  "e4 e5 f4 d5": {
+    "code": "C30",
+    "name": "King's Gambit: Falkbeer Countergambit"
+  },
+  "e4 e5 nf3 f5 exf5": {
+    "code": "C40",
+    "name": "Latvian Gambit"
+  },
+  "e4 e5 nf3 f6 nxe5": {
+    "code": "C40",
+    "name": "Damiano Defense"
+  },
+  "e4 e5 nf3 qf6 nc3": {
+    "code": "C40",
+    "name": "Greco Defense"
+  },
+  "e4 c5 b4 cxb4": {
+    "code": "B20",
+    "name": "Sicilian Defense: Wing Gambit"
+  },
+  "e4 c5 c3 d5": {
+    "code": "B22",
+    "name": "Sicilian Defense: Alapin Variation"
+  },
+  "e4 c5 nc3 nc6": {
+    "code": "B20",
+    "name": "Sicilian Defense: Closed"
+  },
+  "d4 d5 e4 dxe4": {
+    "code": "D00",
+    "name": "Blackmar-Diemer Gambit"
+  },
+  "d4 f5 g4 fxg4": {
+    "code": "A80",
+    "name": "Dutch Defense: Staunton Gambit"
+  },
+  "c4 e5 g3 nf6": {
+    "code": "A20",
+    "name": "English Opening"
+  },
+  "c4 c5 nf3 nf6": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "c4 nf6 nc3 e5 nf3": {
+    "code": "A40",
+    "name": "English Opening: Four Knights"
+  },
+  "nf3 d5 d4 nf6": {
+    "code": "A40",
+    "name": "Queen's Pawn Opening"
+  },
+  "nf3 nf6 c4 e6": {
+    "code": "A40",
+    "name": "English Opening"
+  },
+  "g3 e5 bg2 nf6": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3 nf6 bb2 e6": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4 d5 nf3 g6 e3": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  },
+  "e4 e5 nc3 nf6 f4": {
+    "code": "C25",
+    "name": "Vienna Game: Gambit"
+  },
+  "e4 e5 nc3 nc6 f4": {
+    "code": "C44",
+    "name": "Scotch Four Knights: Gambit"
+  },
+  "d4 d5 nf3 nf6 c4": {
+    "code": "D06",
+    "name": "Queen's Gambit"
+  },
+  "d4 d5 nf3 e6 c4": {
+    "code": "D30",
+    "name": "Queen's Gambit Declined"
+  },
+  "d4 d5 nf3 c5 c4": {
+    "code": "D06",
+    "name": "Queen's Gambit"
+  },
+  "d4 nf6 nf3 g6 c4": {
+    "code": "E60",
+    "name": "King's Indian Defense"
+  },
+  "d4 nf6 nf3 e6 c4": {
+    "code": "E00",
+    "name": "Nimzo-Indian Defense"
+  },
+  "c4 e5 nc3 nf6 nf3": {
+    "code": "A20",
+    "name": "English Opening: Four Knights"
+  },
+  "c4 e5 nc3 nc6 nf3": {
+    "code": "A20",
+    "name": "English Opening: Four Knights"
+  },
+  "c4 nf6 nc3 e5 nf3": {
+    "code": "A40",
+    "name": "English Opening: Four Knights"
+  },
+  "c4 nf6 nc3 c5 nf3": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "nf3 d5 c4 c6 d4": {
+    "code": "A10",
+    "name": "English Opening"
+  },
+  "nf3 nf6 c4 c5 d4": {
+    "code": "A30",
+    "name": "English Opening: Symmetrical"
+  },
+  "g3 d5 bg2 nf6 d4": {
+    "code": "A00",
+    "name": "Reti Opening"
+  },
+  "b3 e5 bb2 nc6 e3": {
+    "code": "A01",
+    "name": "Nimzowitsch-Larsen Attack"
+  },
+  "f4 d5 nf3 nf6 e3": {
+    "code": "A02",
+    "name": "Bird's Opening"
+  }
+}
