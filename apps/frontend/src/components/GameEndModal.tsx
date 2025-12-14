@@ -130,12 +130,12 @@ const GameEndModal: React.FC<ModalProps> = ({ blackPlayer, whitePlayer, gameResu
               </div>
             </div>
             <div className="px-6 py-4 bg-gray-900 text-right rounded-b-lg space-x-3">
-              <button
+              {/* <button
                 className="px-6 py-3 text-white bg-green-600 rounded-lg hover:bg-green-700 focus:outline-none inline-block"
                 onClick={goToAnalysis}
               >
                 ye button hata den??
-              </button>
+              </button> */}
               <button
                 className="px-6 py-3 text-white bg-gray-600 rounded-lg hover:bg-gray-700 focus:outline-none inline-block"
                 onClick={closeModal}
